@@ -1,1 +1,3 @@
 new file content 
+nova linha adicionada <conflito>
+
